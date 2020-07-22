@@ -10,6 +10,7 @@ public class Pet {
 
     private int ageMultiplier = 1;
 
+    //used inheritance to specialize in pet class for the descendant cat and dog
     public Pet(String name, int age, int ageMultiplier) {
         this.name = name;
         this.age = age;
