@@ -1,3 +1,11 @@
+/*
+This application is intended to give a brief example of how
+inheritance
+polymorphism and
+abstraction
+works. Through an example to pet profiling.
+ */
+
 public class PetProfilerUI extends javax.swing.JFrame {
     //creates a new form
     public PetProfilerUI() {
